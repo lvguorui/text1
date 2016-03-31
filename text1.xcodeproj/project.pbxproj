@@ -156,6 +156,7 @@
 		3CD7AA9E1C9A538500C43C94 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftUpdateCheck = 0720;
 				LastUpgradeCheck = 0630;
 				ORGANIZATIONNAME = lvguorui;
 				TargetAttributes = {
@@ -411,6 +412,7 @@
 				3CD7AAC71C9A538500C43C94 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		3CD7AAC81C9A538500C43C94 /* Build configuration list for PBXNativeTarget "text1Tests" */ = {
 			isa = XCConfigurationList;
@@ -419,6 +421,7 @@
 				3CD7AACA1C9A538500C43C94 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
